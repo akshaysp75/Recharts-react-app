@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/akshaysp75/Recharts-react-app/static/css/main.131d82ce.css",
+    "main.js": "/akshaysp75/Recharts-react-app/static/js/main.8ef320fb.js",
+    "static/js/453.68693753.chunk.js": "/akshaysp75/Recharts-react-app/static/js/453.68693753.chunk.js",
+    "index.html": "/akshaysp75/Recharts-react-app/index.html",
+    "main.131d82ce.css.map": "/akshaysp75/Recharts-react-app/static/css/main.131d82ce.css.map",
+    "main.8ef320fb.js.map": "/akshaysp75/Recharts-react-app/static/js/main.8ef320fb.js.map",
+    "453.68693753.chunk.js.map": "/akshaysp75/Recharts-react-app/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.131d82ce.css",
+    "static/js/main.8ef320fb.js"
+  ]
+}
