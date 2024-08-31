@@ -1,3 +1,22 @@
+About : 
+
+This React web application offers a robust solution for visualizing and analyzing order and sales data. It leverages dynamic charts, enabling users to intuitively explore and comprehend various trends and metrics related to their business performance. The application is designed to provide a clear and concise overview of sales activities, helping users make informed decisions based on real-time data insights.
+
+Key features of the application include:
+
+Dynamic Charting: Utilize a variety of chart types to visualize data effectively, including line charts, bar charts, pie charts, and more. 
+
+Responsive Design: The application is fully responsive, ensuring a seamless experience across all devices, from desktops to mobile phones.
+
+Data Filtering: Users can filter data based on specific criteria to drill down into detailed insights.
+
+Real-Time Updates: Charts and data visualizations update in real-time, providing up-to-date information at a glance.
+
+User-Friendly Interface: A simple and intuitive interface that allows users of all technical levels to navigate and utilize the application effectively.
+
+The application is deployed and accessible at : akshaysp75.github.io/Recharts-react-app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
